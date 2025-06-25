@@ -18,7 +18,9 @@
 
 ## ℹ️ Personal Project Gallery Built with HTML and CSS
 
-![Screenshot of the project](./screenshot.png)
+| _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
+| ------------------------------------------------ | --------------------------------------------------- |
+| ![Mobile](./img/site-preview-mobile_375x812.png) | ![Desktop](./img/site-preview-desktop_1440x960.png) |
 
 A simple, responsive showcase of my early frontend projects using HTML5 and CSS3. Designed with accessibility and semantic structure in mind, this layout serves as my live gallery and entry point to each individual project.
 
