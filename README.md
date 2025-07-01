@@ -15,6 +15,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a6aa73c7-0b01-45f1-84aa-c69c8341e116/deploy-status)](https://css-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css&left_text=repo%20views)
 
 ## ℹ️ Personal Project Gallery Built with HTML and CSS
 
